@@ -1,4 +1,5 @@
-body {font-family:selif}
+body {font-family:selif;
+  font-size: large;}
 h1 {
    position: relative;
    padding: 1rem 2rem;
@@ -22,6 +23,7 @@ h2 {position:relative;
    border-radius:0 100vh 100vh 0;
    background-color:red;
    box-shadow: 3px 3px 5px rgba(0, 0, 0, .2);
+   margin-right:500px;
    
 }
 
@@ -39,5 +41,9 @@ h2:before {
 .emphasis {text-decoration:underline;
 color:orange}
 
+.right{float: right;margin-left:10px;
+  width:550px;
+height:600px;
+margin-right:110px;}
 #bold{font-weight:bold}
 
