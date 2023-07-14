@@ -47,7 +47,7 @@ height:600px;
 margin-right:110px;}
 #bold{font-weight:bold}
 
-a.jump{display: block;
+a{display: block;
   width: 300px;
   padding: 15px 0;
   margin: auto;
@@ -56,7 +56,7 @@ a.jump{display: block;
   text-decoration: none;
   text-align: center;
 }
-a.jump:hover{
+a:hover{
   background: #ffa600;
 }
 
